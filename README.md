@@ -1,5 +1,4 @@
 #Extensive-Authentication-System-and-Password-Cheker
-
 Built a secure user authentication system in Python featuring registration, login, and password validation.
 
 🧩 Features:
